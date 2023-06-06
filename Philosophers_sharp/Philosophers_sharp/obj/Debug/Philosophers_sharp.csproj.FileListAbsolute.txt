@@ -1,0 +1,8 @@
+D:\z_SHARAGA\ParalellComputingProcesses\laba_4\Philosophers_sharp\Philosophers_sharp\bin\Debug\Philosophers_sharp.exe.config
+D:\z_SHARAGA\ParalellComputingProcesses\laba_4\Philosophers_sharp\Philosophers_sharp\bin\Debug\Philosophers_sharp.exe
+D:\z_SHARAGA\ParalellComputingProcesses\laba_4\Philosophers_sharp\Philosophers_sharp\bin\Debug\Philosophers_sharp.pdb
+D:\z_SHARAGA\ParalellComputingProcesses\laba_4\Philosophers_sharp\Philosophers_sharp\obj\Debug\Philosophers_sharp.csproj.AssemblyReference.cache
+D:\z_SHARAGA\ParalellComputingProcesses\laba_4\Philosophers_sharp\Philosophers_sharp\obj\Debug\Philosophers_sharp.csproj.SuggestedBindingRedirects.cache
+D:\z_SHARAGA\ParalellComputingProcesses\laba_4\Philosophers_sharp\Philosophers_sharp\obj\Debug\Philosophers_sharp.csproj.CoreCompileInputs.cache
+D:\z_SHARAGA\ParalellComputingProcesses\laba_4\Philosophers_sharp\Philosophers_sharp\obj\Debug\Philosophers_sharp.exe
+D:\z_SHARAGA\ParalellComputingProcesses\laba_4\Philosophers_sharp\Philosophers_sharp\obj\Debug\Philosophers_sharp.pdb

@@ -1,0 +1,8 @@
+D:\z_SHARAGA\ParalellComputingProcesses\laba_1\Laba_1_sharp\Laba_1\bin\Debug\Laba_1.exe.config
+D:\z_SHARAGA\ParalellComputingProcesses\laba_1\Laba_1_sharp\Laba_1\bin\Debug\Laba_1.exe
+D:\z_SHARAGA\ParalellComputingProcesses\laba_1\Laba_1_sharp\Laba_1\bin\Debug\Laba_1.pdb
+D:\z_SHARAGA\ParalellComputingProcesses\laba_1\Laba_1_sharp\Laba_1\obj\Debug\Laba_1.csproj.AssemblyReference.cache
+D:\z_SHARAGA\ParalellComputingProcesses\laba_1\Laba_1_sharp\Laba_1\obj\Debug\Laba_1.csproj.SuggestedBindingRedirects.cache
+D:\z_SHARAGA\ParalellComputingProcesses\laba_1\Laba_1_sharp\Laba_1\obj\Debug\Laba_1.csproj.CoreCompileInputs.cache
+D:\z_SHARAGA\ParalellComputingProcesses\laba_1\Laba_1_sharp\Laba_1\obj\Debug\Laba_1.exe
+D:\z_SHARAGA\ParalellComputingProcesses\laba_1\Laba_1_sharp\Laba_1\obj\Debug\Laba_1.pdb

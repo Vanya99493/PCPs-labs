@@ -1,0 +1,8 @@
+D:\z_SHARAGA\ParalellComputingProcesses\laba_3\Semaphore_sharp\Semaphore_sharp\bin\Debug\Semaphore_sharp.exe.config
+D:\z_SHARAGA\ParalellComputingProcesses\laba_3\Semaphore_sharp\Semaphore_sharp\bin\Debug\Semaphore_sharp.exe
+D:\z_SHARAGA\ParalellComputingProcesses\laba_3\Semaphore_sharp\Semaphore_sharp\bin\Debug\Semaphore_sharp.pdb
+D:\z_SHARAGA\ParalellComputingProcesses\laba_3\Semaphore_sharp\Semaphore_sharp\obj\Debug\Semaphore_sharp.csproj.AssemblyReference.cache
+D:\z_SHARAGA\ParalellComputingProcesses\laba_3\Semaphore_sharp\Semaphore_sharp\obj\Debug\Semaphore_sharp.csproj.SuggestedBindingRedirects.cache
+D:\z_SHARAGA\ParalellComputingProcesses\laba_3\Semaphore_sharp\Semaphore_sharp\obj\Debug\Semaphore_sharp.csproj.CoreCompileInputs.cache
+D:\z_SHARAGA\ParalellComputingProcesses\laba_3\Semaphore_sharp\Semaphore_sharp\obj\Debug\Semaphore_sharp.exe
+D:\z_SHARAGA\ParalellComputingProcesses\laba_3\Semaphore_sharp\Semaphore_sharp\obj\Debug\Semaphore_sharp.pdb
